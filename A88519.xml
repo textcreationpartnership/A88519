@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Look about you: a discourse directed to the Lords of the upper house of Parliament in the first place, to the honourable the House of Commons, to the Right Honorable Lord Mayor of the Citie of London, the aldermen his brethren, and to the commons of the said citie. And lastly, to the whole body of the Kingdome of England, who ought to put this counsell in practice, for the preservation of their lives and liberties: namely, look about you. / Written by a Lover of his Countrey, and a faithfull servant to the high Court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88519</idno>
+            <idno type="STC">Wing L3005</idno>
+            <idno type="STC">Thomason E85_35</idno>
+            <idno type="STC">ESTC R13026</idno>
+            <idno type="EEBO-CITATION">99859391</idno>
+            <idno type="PROQUEST">99859391</idno>
+            <idno type="VID">111466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Look about you: a discourse directed to the Lords of the upper house of Parliament in the first place, to the honourable the House of Commons, to the Right Honorable Lord Mayor of the Citie of London, the aldermen his brethren, and to the commons of the said citie. And lastly, to the whole body of the Kingdome of England, who ought to put this counsell in practice, for the preservation of their lives and liberties: namely, look about you. / Written by a Lover of his Countrey, and a faithfull servant to the high Court of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Wilkinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 21. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111466:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>Look about you:</p>
+            <p>A DISCOVRSE DIRECTED To the Lords of the Vpper Houſe of <hi>Parliament</hi> in the firſt place, to the Ho<g ref="char:EOLhyphen"/>nourable the Houſe of Commons, to the Right Honorable Lord Mayor of the Citie of <hi>London,</hi> the Aldermen his brethren, and to the Com<g ref="char:EOLhyphen"/>mons of the ſaid Citie.</p>
+            <p>And laſtly, to the whole body of the Kingdome of <hi>England,</hi> who ought to put this counſell in practice, for the preſervation of their lives and liberties: Namely, <hi>Look about you.</hi>
+            </p>
+            <p>Written by a Lover of his Countrey, and a faithfull Servant to the high Court of Parliament.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Tho. Wilkinſon. Ian.</hi> 21. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111466:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="3" facs="tcp:111466:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>Look about you.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O the Noble and prime Champions of this Kingdomes Laws and liberties, the right Honourable the Lords of the upper Houſe of Parliament, is this my Diſ<g ref="char:EOLhyphen"/>courſe directed; <hi>Looke about you.</hi> To you I ſay in the firſt place, you being higheſt in preheminence, doe I ſhape my counſell; nor will you, I hope, deſpiſe it: For, <hi>out of the mouthes of Babes and Sucklings hath God ordained ſtrength to ſtill the Enemy and Avenger, Looke about you:</hi> a ſhort it is, but a moſt patheticall axiome; for, if you right Ho<g ref="char:EOLhyphen"/>nourable, who are the pillars which ſupport the reeling State of the Kingdome ſhould not with a provident fore<g ref="char:EOLhyphen"/>ſight ſurvey the events which threaten the peace and ſafe<g ref="char:EOLhyphen"/>ty of the people, they were likely to meet a ſudden de<g ref="char:EOLhyphen"/>ſolation and ruine. For your Honours wiſdome muſt needs perceive with what violent acrimonie and unjuſt procee<g ref="char:EOLhyphen"/>dings the Malignants about his Majeſty aime at the ruines of your lives, fortunes and honourable families; how they arme themſelves, friends and followers for your ſubver<g ref="char:EOLhyphen"/>ſion, and utter extinguiſhment, they would not leave you, a light in this our <hi>Iſrael,</hi> nor ſuffer you, to have any portion in the inheritance of your fore-fathers, but ſacrifice your lives and eſtates to that Idoll of their owne ſetting up, namely, their owne pride and naughtineſſe of heart, going
+<pb n="4" facs="tcp:111466:3"/>
+               <!-- PDF PAGE 75 -->about like roring Lyons, <hi>ſeeking whom they may devour.</hi> It is time therefore for your Honours to <hi>looke about you.</hi>
+            </p>
+            <p>It is perſpicuous to every well-affected and judicious eye, that your Honours have omitted no one point of diſcretion which might tend to the advancement of the Common-wealth, to reclaime his Majeſtie from his perverſe and ma<g ref="char:EOLhyphen"/>lignant Councellors, and to reunite him to the body of his Kingdome now aſſembled in this honorable &amp; prudent Par<g ref="char:EOLhyphen"/>liament; but ſince not only your Councels are deſpiſed and unhearkened to, but alſo forces perpetually raiſed at home, machinations abroad attempted to bring in forraigne forces, to tranſport armes and ammunition into this Realme for the ſubduing your Honours, and overthrowing that which you are in part inſtruſted withall (the liberty of the Subject) when no indevour for peace will ſucceed, but the noyſe of warre muſt ſtill thunder through this Kingdome, rapines, plunderings and murthers being daily committed upon the perſons and eſtates of the Subjects. Surely it is then no ill ad<g ref="char:EOLhyphen"/>vice to <hi>looke about you.</hi> God in his great mercy hath furniſhed your Lordſhips with underſtanding hearts and valiant hands for the defence of your ſelves and the people, now com<g ref="char:EOLhyphen"/>mitted, as it were, to your charge, you are the Worthies, the choſen men of might, to fight the battells of the Lord, and he bids you <hi>looke about you.</hi>
+            </p>
+            <p>And now to you the Husbands of the Common-wealth, the honourable the Knights and Burgeſſes aſſembled and elected by the peoples ſuffrage for the ſecurity of their liber<g ref="char:EOLhyphen"/>ties, I may without offence ſay, <hi>looke about you;</hi> you have beheld how divers of your moſt worthy and honourable members againſt the ancient conſtitutions and priviledges of Parliament have beene called into queſtion, and by force and violence demanded in your Houſe, where you ſit to ne<g ref="char:EOLhyphen"/>gotiate and treat about the welfare of the Republi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. your wiſdomes doe daily perceive what ſlight value (<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Majeſty being miſled by the pernicious counſells of his Cavaliers) ſets upon you and your proceedings. Your are ſenſible how
+<pb n="5" facs="tcp:111466:3"/>
+               <!-- PDF PAGE 75 -->much the poore diſtreſſed Subject ſuffers, labouring even to death under the preſſure and weight of the malignants op<g ref="char:EOLhyphen"/>preſſions and devaſtations; there are rumours of wars, how true I know not, from all the parts of this Kingdome, Papiſts (ſuch as ever have been, and continually will be, perſecutors of the little flocke of Chriſt) who have by murthers and powder-plots, fought the ruines of our Kings and Poten<g ref="char:EOLhyphen"/>tates, brought into the field ready armed and abilited to doe miſchiefe, and ſurely they will not ſpare the blood of the faithfull; therefore I may with modeſty and pardon from your honourable wiſedomes preſume to ſay to you, <hi>Looke about you.</hi>
+            </p>
+            <p>Dangers, as I ſaid, that great King, and ſweet Singer of <hi>Iſrael,</hi> and the ſhadow of death had incompaſſed me round about, yet I feared nothing, for my truſt was in the Lord: your ſelves may apply that ſaying to your ſelves, though (thankes be to God) theſe dangers have not yet come neere you; for he hath protected you as the apple of the eye, and ſo will ever doe againſt all aſſaults of your enemies; it is for him you fight the battells of the Lord of hoſts, for the truth and ſecurity of his Goſpell, and he will not ſuffer the Sunne to burne you by day, not the Moone by night: the counſells of the ungodly ſhall be brought to nought before you, for he who is the Watchman of <hi>Iſrael</hi> neither ſlumbereth nor ſlee<g ref="char:EOLhyphen"/>peth; the eyes of the people are upon you, they have ap<g ref="char:EOLhyphen"/>pointed you the feoffees in truſt for their liberties; and certainly they will never revoke their act, but ſpend their lives and fortunes in the tutelage of your juſt and honourable proceedings, they will be gathered together as one man, even from <hi>Dan</hi> to <hi>Beerſheba</hi> to deſtroy thoſe wicked <hi>Benjamites</hi> that have committed folly in <hi>Iſrael,</hi> to aſſiſt you againſt thoſe wicked malignants, that have too much wrought upon his Majeſties goodneſſe, and ſought to deſtroy the eſſence of Parliaments, and you will be victorious over them, onely <hi>looke about you.</hi>
+            </p>
+            <p>And to your right Honourable the preſent Lord Mayor of
+<pb n="6" facs="tcp:111466:4"/>
+               <!-- PDF PAGE 76 -->this noble City of <hi>London,</hi> and the well affected Aldermen your Brethren &amp; Aſſiſtants, in all humility I tender the ſame counſell, <hi>Looke about you.</hi> You ſit at the helme of governe<g ref="char:EOLhyphen"/>ment in this famous City, the Metropolis of our Kingdome, and daily behold a company of factious and pertinatious ma<g ref="char:EOLhyphen"/>lignants, even among the Inhabitants of this our <hi>Sion,</hi> who ſpurne at, and ſet at nought your good endevours, for the commodity not onely of your City, but the whole Common-wealth; let not their malicious practices or traducing lan<g ref="char:EOLhyphen"/>guage, hinder or diſcourage you in the proſecution of your religious and legall proceedings, authoriſed by order from both Houſes of Parliament. It will be hard for them to kick againſt pricks; Wolves may howle at the Moone, but their voyces can neither impeach it in its courſe, nor eclipſe its brightneſſe, their malice will not hurt you, but juſt, as if they ſhould ſpit againſt the wind, the filth will returne into their owne faces; your knowne goodneſſe will beat backe their calumnies upon themſelves, howſoever truſt them not, but <hi>Looke about you.</hi>
+            </p>
+            <p>Your have heard, and ſo have all this City, your ho<g ref="char:EOLhyphen"/>nourable ſelfe, and ſome other worthy and well-affected Citizens, deſiree by his Majeſty, as Delinquents to be given up to impriſonment, let not that thunderbolt amaze you, it is farre enough, thanks be to God, from piercing you. In your diſcretions conſiſts a great part of the advancement of the preſent cauſe for the glory of God and good of your Bre<g ref="char:EOLhyphen"/>thren; now your hand is put to the Lords <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ough, pull it not backe, but endevour cheerfully and couragiouſly to animate the Citizens and able perſons reſident within your walls, to contribute largely to the maintenance of theſe wars, till an honourable and juſt peace, with which truth may walke hand in hand, give a period (and no good man but wiſhes it) to all theſe civill diſtractions, wars and tumults; how<g ref="char:EOLhyphen"/>ſoever forget not this axiome, but weare it imprinted in the tables of your hearts, <hi>Looke about you.</hi>
+            </p>
+            <p>And you the wealthy and well-affected Citizens under
+<pb n="7" facs="tcp:111466:4"/>
+               <!-- PDF PAGE 76 -->the government and charge of the ſaid right Honourable the Lord Mayor and his Brethren, it principally concernes you to <hi>looke about you;</hi> you are the Indies which thoſe blood<g ref="char:EOLhyphen"/>thirſty Cavaliers have aimed at, your wealth, your plate, and other riches, which like the <hi>Spaniards</hi> Indies, they have ſtill made a reckoning ſhould fall as a prey into their fingers: and certainely they would uſe as little mer<g ref="char:EOLhyphen"/>cy to you here, as the <hi>Spaniard</hi> did to them there; it is neither reſpect of kindred, friends or acquantance that ſhould any whit moderate the rapacity of their hands, or licenciouſneſſe of their appetites, ſhould they once gaine the ſuperiority in theſe warres, and enter your goodly City by force, neither your wives or beautious daughters ſhould eſcape their violent luſts, all that is deare and pre<g ref="char:EOLhyphen"/>cious to you would be given up a ſpoile to their avarice; and therefore I ſay to you, <hi>Looke about you,</hi> and doe not like <hi>Aeſops</hi> Dogge in the Fable, catch at the ſhadow, and forgoe the ſubſtance; doe not let a little covetouſneſſe of ſaving part of your wealth make you forfeit the whole, but as the <hi>Iſraelites</hi> in the Wilderneſſe did conſecrate all the Jewells of Gold and Silver with a willing mind to<g ref="char:EOLhyphen"/>ward the building of the Tabernacle; ſo throw you in every one out of the abundance of your ſtore, plate and moneys, into the treaſury of that ſanctuary of yours and the whole Kingdomes liberty, the Honourable the High Court of Parliament, God will reſtore it you an hundred fold, ſince it is chiefly intended for the promotion of his ſervice, the reſcuing His Excellent Majeſty from the in<g ref="char:EOLhyphen"/>thralment of the Malignant party, and for the eſtabiſh<g ref="char:EOLhyphen"/>ment of peace againe in this our <hi>Iſrael;</hi> in this caſe there<g ref="char:EOLhyphen"/>fore be wiſe and <hi>looke about you.</hi>
+            </p>
+            <p>And laſtly, to you the Nobility, Knights, Gentry, and Yeomanry, diffuſed and diſperſed through this Kingdome of <hi>England,</hi> to you I preſent the ſame leſſon, <hi>Looke about you,</hi> you have already ſeen the calamities of your neighbours, and felt your owne; you have either had fire and ſword
+<pb n="8" facs="tcp:111466:5"/>
+               <!-- PDF PAGE 77 -->in your owne dwellings, or heard of it in your friends and fellow-Subjects, not one County in this populous King<g ref="char:EOLhyphen"/>dome eſcaping the dreadfull and pitileſſe aſſaults of theſe deſperate and blood-minded Cavaliers; I may therefore with juſt reaſon adviſe you to <hi>looke about you:</hi> and whileſt you have yet time left, aſſociate your ſelves to the faith<g ref="char:EOLhyphen"/>full, and conforme your actions to the proceedings and directions of the High court of Parliament, ſend forth all the able young men amongſt you well prepared and har<g ref="char:EOLhyphen"/>neſſed for battell to their aſſiſtance againſt theſe Malig<g ref="char:EOLhyphen"/>nants that ſtudy to inſlave you, your eſtates and liber<g ref="char:EOLhyphen"/>ties; the Parliament is the tower of your refuge, and un<g ref="char:EOLhyphen"/>der God, the ſtrong hold and caſtle of defence you muſt truſt to; let not other hopes or pretences deceive you, but ſubmit your judgements to theirs, whoſe wiſdomes will breed your welfare and tranquillity; willingly im<g ref="char:EOLhyphen"/>part your eſtates, and lives if need be, to their defence and protection, who will defend and protect your free<g ref="char:EOLhyphen"/>domes and livelihoods from all dangers, and make this Kingdome flouriſhing and fortunate by their inſtitution of Gods Lawes for the ſecurity of the Subject, which will in happy time be brought to good effect, if you take my poore and humble counſell, <hi>Looke about you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
